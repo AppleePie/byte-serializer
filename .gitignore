@@ -1,0 +1,8 @@
+﻿*/bin/*
+*/obj/*
+*.suo
+packages/*
+*.user
+*/logs/*
+.vs/*
+.idea/*
